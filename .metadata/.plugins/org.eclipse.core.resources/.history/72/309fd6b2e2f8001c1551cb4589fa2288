@@ -1,0 +1,15 @@
+import java.util.*;
+package Challenger;
+
+public class Challenger {
+
+	public static void main(String[] args) {
+		List<String> list = Arrays.asList("", "H","Hello", "Amazing");
+		for (int i; i < list.size(); i++ ) {
+			System.out.printLN(list.get(i));
+		
+		}
+
+	}
+
+}

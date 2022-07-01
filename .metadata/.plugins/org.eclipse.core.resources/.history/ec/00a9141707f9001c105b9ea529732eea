@@ -1,0 +1,10 @@
+package src;
+
+public class Print_the_Length_of_a_String {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
